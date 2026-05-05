@@ -10,11 +10,10 @@
 <br />
 
 **Sistemas de IA prácticos para pymes**
-*Practical AI systems for small businesses*
 
 [Web](https://codarasolutions.com) · [info@codarasolutions.com](mailto:info@codarasolutions.com)
 
-[**Español**](#español) · [**English**](#english)
+[**Español**](#español) · [**English →**](https://codarasolutions.com/en)
 
 </div>
 
@@ -60,89 +59,9 @@ Somos una consultora boutique de IA centrada en pymes. Diseñamos e implementamo
 - **Confianza** — tus datos son tuyos. Documentamos dónde viajan y cómo desactivar cualquier pieza.
 - **Resultados** — un proyecto termina cuando hay una métrica concreta mejorando.
 
-### Fundadores
-
-<table>
-  <tr align="center">
-    <td width="33%"><img src="./team/jorge.png" alt="Jorge Herrero" width="180" /></td>
-    <td width="33%"><img src="./team/etienne.png" alt="Etienne Descombes" width="180" /></td>
-    <td width="33%"><img src="./team/agostino.png" alt="Agostino Pisani" width="180" /></td>
-  </tr>
-  <tr align="center">
-    <td><b>Jorge Herrero</b><br /><sub>IE University · BBA &amp; Data Analytics</sub></td>
-    <td><b>Etienne Descombes</b><br /><sub>IE University · BBA &amp; Data Analytics</sub></td>
-    <td><b>Agostino Pisani</b><br /><sub>IE University · BBA — MSc Finance &amp; Data Science, UCL</sub></td>
-  </tr>
-</table>
-
 ### Hablemos
 
 **Diagnóstico gratuito de 30 minutos.** Sin compromiso. Sales con dos o tres ideas aplicables, con o sin nosotros.
-
-→ [codarasolutions.com](https://codarasolutions.com) · [info@codarasolutions.com](mailto:info@codarasolutions.com)
-
-<br />
-
----
-
-## English
-
-> *We bring AI to real businesses — no hype, no fluff.*
-
-We're a boutique AI consultancy focused on small and mid-sized businesses. We design and implement systems that **automate workflows**, **connect tools** and **free up time** for real teams — without changing how your business operates.
-
-### Sectors we work with
-
-| Sector | Typical outcome |
-| --- | --- |
-| Auto repair shops | Fewer lost requests, more jobs closed. |
-| Salons & beauty | Fewer messages, more booked slots. |
-| Clinics & vets | Appointments, reminders and no-shows under control. |
-| Driving schools | Fewer price calls, more enrollments. |
-| Restaurants | Reservations and confirmations handled cleanly. |
-| Marketing agencies | Less internal admin, more strategic work. |
-
-### What we build
-
-- **24/7 voice agents** — answer calls, qualify leads and capture data in real time.
-- **Process automation** — end-to-end flows on top of the software you already run.
-- **CRM integration** — connect your sales and data with your existing stack.
-- **Chatbots & conversational AI** — for web, product and internal teams.
-- **Web development** — fast, modern sites with AI built in.
-- **Server management & maintenance** — stable, secure, scalable infrastructure.
-
-### How we work
-
-1. **Process diagnosis** — we map people, processes and data before proposing.
-2. **Solution design** — we prioritize cases with clear ROI and a phased plan.
-3. **Implementation** — we build or integrate, measure and tune in short cycles.
-4. **Guided adoption** — training, governance and metrics so AI keeps creating value.
-
-### Principles
-
-- **Closeness** — we design with the people who will run the system, not around them.
-- **Precision** — we don't overpromise. If something won't work, we say so before signing.
-- **Trust** — your data is yours. We document where it travels and how to switch any piece off.
-- **Results** — a project ends when a concrete metric is improving.
-
-### Founders
-
-<table>
-  <tr align="center">
-    <td width="33%"><img src="./team/jorge.png" alt="Jorge Herrero" width="180" /></td>
-    <td width="33%"><img src="./team/etienne.png" alt="Etienne Descombes" width="180" /></td>
-    <td width="33%"><img src="./team/agostino.png" alt="Agostino Pisani" width="180" /></td>
-  </tr>
-  <tr align="center">
-    <td><b>Jorge Herrero</b><br /><sub>IE University · BBA &amp; Data Analytics</sub></td>
-    <td><b>Etienne Descombes</b><br /><sub>IE University · BBA &amp; Data Analytics</sub></td>
-    <td><b>Agostino Pisani</b><br /><sub>IE University · BBA — MSc Finance &amp; Data Science, UCL</sub></td>
-  </tr>
-</table>
-
-### Let's talk
-
-**Free 30-minute diagnosis.** No commitment. You leave with two or three applicable ideas, with or without us.
 
 → [codarasolutions.com](https://codarasolutions.com) · [info@codarasolutions.com](mailto:info@codarasolutions.com)
 
