@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Diagnóstico comercial · Commercial inquiry
+    url: https://codarasolutions.com
+    about: ¿Quieres saber si Codara encaja con tu negocio? Reserva un diagnóstico gratuito de 30 minutos. · Want to know if Codara fits your business? Book a free 30-minute diagnosis.
+  - name: Soporte para clientes · Client support
+    url: mailto:info@codarasolutions.com?subject=Soporte
+    about: Si tienes un contrato activo con Codara, usa este canal en lugar de un issue público. · If you have an active contract with Codara, use this channel instead of a public issue.
+  - name: Reportar una vulnerabilidad · Report a vulnerability
+    url: https://github.com/Codara-Solutions/.github/blob/main/SECURITY.md
+    about: No abras un issue público. Sigue la política de seguridad. · Do not open a public issue. Follow the security policy.
+  - name: Pregunta general · General question
+    url: mailto:info@codarasolutions.com
+    about: Cualquier otra duda. · Any other question.

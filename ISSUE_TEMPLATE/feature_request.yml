@@ -1,0 +1,62 @@
+name: Feature request · Petición de funcionalidad
+description: Propón una mejora o nueva funcionalidad. · Propose an improvement or new feature.
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por proponer una mejora. Antes de implementar nada, queremos entender el problema y el contexto.
+        Thanks for proposing an improvement. Before implementing anything, we want to understand the problem and context.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: ¿Qué problema resuelve? · What problem does it solve?
+      description: |
+        ES — Describe el problema actual, no la solución. ¿A quién afecta y cuándo?
+        EN — Describe the current problem, not the solution. Who is affected and when?
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Propuesta · Proposal
+      description: |
+        ES — Cómo te gustaría que funcionara. Si tienes alternativas, descríbelas.
+        EN — How you'd like it to work. If you have alternatives, describe them.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas consideradas · Alternatives considered
+      description: ¿Has pensado otras formas de resolverlo? · Have you considered other ways to solve it?
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Impacto percibido · Perceived impact
+      options:
+        - Bajo · Low — sería bonito tenerlo · nice to have
+        - Medio · Medium — mejora notable del flujo · noticeable workflow improvement
+        - Alto · High — bloquea o duele de verdad · blocking or real pain
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto adicional · Additional context
+      description: Casos de uso, capturas, enlaces. · Use cases, screenshots, links.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmaciones · Confirmations
+      options:
+        - label: He buscado y no existe una propuesta similar. · I searched and there's no similar proposal.
+          required: true
+        - label: He leído el [Código de Conducta](../CODE_OF_CONDUCT.md). · I have read the [Code of Conduct](../CODE_OF_CONDUCT.md).
+          required: true

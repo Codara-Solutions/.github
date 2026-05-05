@@ -1,0 +1,79 @@
+name: Bug report · Reporte de bug
+description: Algo no funciona como debería. · Something is not working as expected.
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por dedicar tiempo a reportar este bug. Cuanta más información, antes lo resolvemos.
+        Thanks for taking the time to report this bug. The more detail, the faster we can fix it.
+
+        > **Seguridad / Security:** si crees que es una vulnerabilidad, **no abras un issue público** — lee la [política de seguridad](../SECURITY.md). · If you think this is a vulnerability, **do not open a public issue** — read the [security policy](../SECURITY.md).
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Descripción · Description
+      description: Resumen claro y conciso del bug. · A clear and concise description of the bug.
+      placeholder: ES — Al hacer X, ocurre Y en lugar de Z. · EN — When I do X, Y happens instead of Z.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Pasos para reproducir · Steps to reproduce
+      description: Pasos numerados para reproducir el comportamiento. · Numbered steps to reproduce the behavior.
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Comportamiento esperado · Expected behavior
+      description: Qué esperabas que ocurriera. · What you expected to happen.
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Comportamiento actual · Actual behavior
+      description: Qué ocurre realmente, incluidos mensajes de error. · What actually happens, including error messages.
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Entorno · Environment
+      description: |
+        ES — Versión, navegador, sistema operativo, commit, etc.
+        EN — Version, browser, OS, commit, etc.
+      placeholder: |
+        - Repo / paquete:
+        - Versión / commit:
+        - SO / Browser:
+        - Node / Bun:
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Capturas, logs o contexto adicional · Screenshots, logs or extra context
+      description: Cualquier cosa que ayude a entenderlo. · Anything that helps us understand it.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmaciones · Confirmations
+      options:
+        - label: He buscado y no existe un issue duplicado. · I searched and there's no duplicate issue.
+          required: true
+        - label: He leído el [Código de Conducta](../CODE_OF_CONDUCT.md). · I have read the [Code of Conduct](../CODE_OF_CONDUCT.md).
+          required: true
