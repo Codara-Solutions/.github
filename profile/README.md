@@ -19,9 +19,7 @@
 
 ---
 
-## Español
-
-> *Acercamos la IA al negocio real, sin artificios.*
+## *Acercamos la IA al negocio real, sin artificios.*
 
 Somos una consultora boutique de IA centrada en pymes. Diseñamos e implementamos sistemas que **automatizan procesos**, **conectan herramientas** y **liberan tiempo** en equipos reales — sin cambiar cómo trabaja tu negocio.
 
