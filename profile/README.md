@@ -1,6 +1,13 @@
 <div align="center">
 
-# Codara Solutions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-white.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-navy.png" />
+  <img alt="Codara Solutions" src="./assets/logo-navy.png" width="320" />
+</picture>
+
+<br />
+<br />
 
 **Sistemas de IA prácticos para pymes**
 *Practical AI systems for small businesses*
@@ -53,6 +60,21 @@ Somos una consultora boutique de IA centrada en pymes. Diseñamos e implementamo
 - **Confianza** — tus datos son tuyos. Documentamos dónde viajan y cómo desactivar cualquier pieza.
 - **Resultados** — un proyecto termina cuando hay una métrica concreta mejorando.
 
+### Fundadores
+
+<table>
+  <tr align="center">
+    <td width="33%"><img src="./team/jorge.png" alt="Jorge Herrero" width="180" /></td>
+    <td width="33%"><img src="./team/etienne.png" alt="Etienne Descombes" width="180" /></td>
+    <td width="33%"><img src="./team/agostino.png" alt="Agostino Pisani" width="180" /></td>
+  </tr>
+  <tr align="center">
+    <td><b>Jorge Herrero</b><br /><sub>IE University · BBA &amp; Data Analytics</sub></td>
+    <td><b>Etienne Descombes</b><br /><sub>IE University · BBA &amp; Data Analytics</sub></td>
+    <td><b>Agostino Pisani</b><br /><sub>IE University · BBA — MSc Finance &amp; Data Science, UCL</sub></td>
+  </tr>
+</table>
+
 ### Hablemos
 
 **Diagnóstico gratuito de 30 minutos.** Sin compromiso. Sales con dos o tres ideas aplicables, con o sin nosotros.
@@ -103,6 +125,21 @@ We're a boutique AI consultancy focused on small and mid-sized businesses. We de
 - **Trust** — your data is yours. We document where it travels and how to switch any piece off.
 - **Results** — a project ends when a concrete metric is improving.
 
+### Founders
+
+<table>
+  <tr align="center">
+    <td width="33%"><img src="./team/jorge.png" alt="Jorge Herrero" width="180" /></td>
+    <td width="33%"><img src="./team/etienne.png" alt="Etienne Descombes" width="180" /></td>
+    <td width="33%"><img src="./team/agostino.png" alt="Agostino Pisani" width="180" /></td>
+  </tr>
+  <tr align="center">
+    <td><b>Jorge Herrero</b><br /><sub>IE University · BBA &amp; Data Analytics</sub></td>
+    <td><b>Etienne Descombes</b><br /><sub>IE University · BBA &amp; Data Analytics</sub></td>
+    <td><b>Agostino Pisani</b><br /><sub>IE University · BBA — MSc Finance &amp; Data Science, UCL</sub></td>
+  </tr>
+</table>
+
 ### Let's talk
 
 **Free 30-minute diagnosis.** No commitment. You leave with two or three applicable ideas, with or without us.
@@ -112,5 +149,7 @@ We're a boutique AI consultancy focused on small and mid-sized businesses. We de
 <br />
 
 <div align="center">
-<sub>© Codara Solutions · Madrid, España</sub>
+  <img src="./assets/mark-navy.png" alt="" width="32" />
+  <br />
+  <sub>© Codara Solutions · Madrid, España</sub>
 </div>
