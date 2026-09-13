@@ -1,0 +1,31 @@
+name: Bug report
+description: Report a reproducible product problem.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "For security vulnerabilities, follow SECURITY.md. Do not include credentials, payment details or private customer data."
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include the expected result and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version and environment
+      description: Product version, operating system and browser, where relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots or redacted logs
