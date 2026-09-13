@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability privately
+    url: https://github.com/Codara-Solutions/.github/blob/main/SECURITY.md
+    about: Follow our security reporting instructions. Do not open a public issue.
+  - name: Account, billing and business support
+    url: mailto:info@codarasolutions.com
+    about: Keep account and payment information out of public issues.

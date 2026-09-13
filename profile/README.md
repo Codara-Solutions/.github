@@ -1,26 +1,27 @@
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-white.png" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-navy.png" />
-  <img alt="Codara Solutions" src="./assets/logo-navy.png" width="320" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Codara-Solutions/.github/main/profile/assets/logo-white.png" />
+  <img alt="Codara Solutions" src="https://raw.githubusercontent.com/Codara-Solutions/.github/main/profile/assets/logo-navy.png" width="320" />
 </picture>
 
-<br />
-<br />
+### Applied AI, built for production
 
-**IA aplicada en producción para tu organización**
+We help enterprise innovation and R&D teams find where AI is useful, build agentic systems, and equip their teams to operate them.
 
-Investigamos dónde aplicar la IA, construimos sistemas agénticos en producción<br />y formamos a tu equipo para operarlos.
-
-<br />
-
-**[codarasolutions.com →](https://codarasolutions.com)**
-
-[info@codarasolutions.com](mailto:info@codarasolutions.com) · ES / EN
-
-<br />
-
-<sub>© Codara Solutions · Madrid, España</sub>
-
+[Website](https://www.codarasolutions.com) · [Contact](mailto:info@codarasolutions.com) · Madrid, Spain
 </div>
+
+## Our products
+
+| Product | What it does | Explore |
+| --- | --- | --- |
+| **Codara Cloud** | Application hosting in Europe, with a console, CLI and MCP. | [codaracloud.com](https://codaracloud.com) |
+| **Codara Studio** | An open-source desktop workspace for supervising AI coding agents. | [Website](https://studio.codarasolutions.com) · [Source code](https://github.com/Codara-Solutions/codara-studio) |
+
+## Get involved
+
+For product issues and contributions, start with the relevant repository's README and contribution guide. For business enquiries, contact [info@codarasolutions.com](mailto:info@codarasolutions.com).
+
+Found a security issue? Please use our [private reporting instructions](https://github.com/Codara-Solutions/.github/blob/main/SECURITY.md).
+
+*También trabajamos en español. Investigamos, construimos y transferimos sistemas de IA aplicada a tu equipo.*
